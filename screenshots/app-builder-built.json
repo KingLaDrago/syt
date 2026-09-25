@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "OmniQuotient International",
+      "hasCanvas": false,
+      "bodyTextLen": 2839,
+      "bodyTextHash": "b0dc948c7dfa3f87ee551e02214af8734bf7c57505d9ee103736bb7095da24e3",
+      "bodyTextPrefix": "OMNIQUOTIENT INTERNATIONAL Home Capabilities Sectors How we work",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "OmniQuotient International",
+      "hasCanvas": false,
+      "bodyTextLen": 2777,
+      "bodyTextHash": "217940423f6367f0341cce49c0c018c2932091f1765c5f956f636fcb3ba4ed12",
+      "bodyTextPrefix": "OMNIQUOTIENT INTERNATIONAL CHINA — ZIMBABWE TRADE, LOGISTICS & T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
